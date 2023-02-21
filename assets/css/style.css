@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  background-image: url(../assets/images/bg.jpeg);
+  background-image: url(/assets/images/bg.jpeg);
   width: 100vw;
   height: 100vh;
   background-repeat: no-repeat;
